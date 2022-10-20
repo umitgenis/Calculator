@@ -22,4 +22,4 @@ You can view the site here [Click Me](https://calculator-1.surge.sh)
 
 ### Author
 ***
-* [Ümit GENİŞ](https://github.com/umitgenis/) | [e-mail adress for click](umitgenis@gmail.com)            
+* [Ümit GENİŞ](https://github.com/umitgenis/) | [e-mail adress for click](mailto:umitgenis@gmail.com) 
