@@ -1,16 +1,19 @@
 #  Calculator
-***
+
+## Preview
+![](./assets/calc.gif)
+
 A Calculator which created with JavaScript.
 
 Click demo to try it by yourself!
 
-## Hulu Clone Demo Link
-***
+## Calculator Demo Link
+
 You can view the site here [Click Me](https://medium-clone-deploy.surge.sh)
 
 
 ## Topics
-***
+
 - Html
 - Css
 - Bootstrap

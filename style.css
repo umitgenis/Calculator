@@ -11,7 +11,7 @@
     
 }
 
-.container .hesapmakinasi {
+.container .calc {
     
     background-color: #cddeed;
     padding-top: 10px;
@@ -19,7 +19,7 @@
         
 }
 
-.container .hesapmakinasi form fieldset {
+.container .calc form fieldset {
     padding-bottom: 12px;
     padding-top: 8px;
     width: 220px;
@@ -37,7 +37,7 @@
     
 }
 
-.container table tr td .ekran1 {
+.container table tr td .screen1 {
     width: 180px;
     height: 50px;
     margin: 2.15px;
