@@ -1,0 +1,73 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    margin: 100px 50%;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.container .hesapmakinasi {
+    
+    background-color: #cddeed;
+    padding-top: 10px;
+    border-radius: 5px;
+        
+}
+
+.container .hesapmakinasi form fieldset {
+    padding-bottom: 12px;
+    padding-top: 8px;
+    width: 220px;
+    height: 290px;
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    text-align: center;
+    border-color: #888792a2;
+    color: #77767c;
+    /* border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px; */
+    border-radius: 5px;
+    font-weight: 600;    
+    
+}
+
+.container table tr td .ekran1 {
+    width: 180px;
+    height: 50px;
+    margin: 2.15px;
+    background-color: #809665;
+    border: 1px solid gray;
+    border-radius: 2px;
+    opacity: 0.9;
+    font-size: 1.5rem;
+
+}
+
+.container table tr td button {
+    width: 40px;
+    height: 40px;
+    margin: 2.15px;
+    background-color: #e5e5e5;
+    border: 1px solid gray;
+    border-radius: 4px;
+    color: #77767c;
+    font-weight:00;
+    font-size: large;
+    
+}
+
+.container table tr td button:active {
+    background-color:  #9eb5c6;
+    color: #e5e5e5b8;
+    opacity: 0.6;
+}
+
+
+
+
