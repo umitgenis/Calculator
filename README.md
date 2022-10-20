@@ -9,15 +9,14 @@ Click demo to try it by yourself!
 
 ## Calculator Demo Link
 
-You can view the site here [Click Me](https://medium-clone-deploy.surge.sh)
+You can view the site here [Click Me](https://calculator-1.surge.sh)
 
 
 ## Topics
 
 - Html
 - Css
-- Bootstrap
-- Fontawesome
+- JavaScript
 - Surge.sh
 
 
